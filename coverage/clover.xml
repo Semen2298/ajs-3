@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1734674859768" clover="3.2.0">
+  <project timestamp="1734674859768" name="All files">
+    <metrics statements="13" coveredstatements="12" conditionals="6" coveredconditionals="6" methods="5" coveredmethods="4" elements="24" coveredelements="22" complexity="0" loc="13" ncloc="13" packages="1" files="4" classes="4"/>
+    <file name="health.js" path="C:\Users\79132\Desktop\Netelogya\ДЗ\ajs3\src\health.js">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="http.js" path="C:\Users\79132\Desktop\Netelogya\ДЗ\ajs3\src\http.js">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="2" count="0" type="stmt"/>
+    </file>
+    <file name="level.js" path="C:\Users\79132\Desktop\Netelogya\ДЗ\ajs3\src\level.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="sort.js" path="C:\Users\79132\Desktop\Netelogya\ДЗ\ajs3\src\sort.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
